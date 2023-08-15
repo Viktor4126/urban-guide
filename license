@@ -8,7 +8,7 @@ function convertArrayToList(arr) {
   return arr.reverse().reduce((acc, cur) => {
     if (acc) {
       const node = new ListNode(cur);
-      node.next = acc;
+      node.next = acc;1
       return node;
     }
 emoveKFromList } = require('../src/remove-from-list.js');
