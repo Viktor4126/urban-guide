@@ -12,7 +12,7 @@ function convertArrayToList(arr) {
       return node;
     }
 emoveKFromList } = require('../src/remove-from-list.js');
-
+1
 it.optional = testOptional;
 
 Object.freeze(assert);
