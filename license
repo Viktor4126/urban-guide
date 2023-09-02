@@ -4,7 +4,7 @@ df
 asd
 fas
 df
-sdfasdfasdasdfasdf123123ыфвафывясчмячсмячсмячсмяasdfasasdfasdf312312312sadsfadsfasdadsfadfasemoveKFromList } = require('../src/remove-from-list.js');
+sdfasdfasdasdfasdf123123ыфвафывясчмячсмячсмячсмяasdfasasdfasdf312312312sadsfadsfasdadsfadfasemoveKFromList } = requiresadfasdfasdf('../src/remove-from-list.js');
 
 it.optional = testOptional;
 
