@@ -56,13 +56,13 @@ declare const AssertionError: AssertionErrorConstructor;
 export = AssertionError;type AssertionError<T = {}> = Error & T & {
     showDiff: boolean;
 };
-type AssertionError<T = {}> = Error & T & {
+type AssertionError<T = {}> = Error & T & {asdasd
     showDiff: boolean;
 };
 
-interface AssertionErrorConstructor {
+interface AssertionErrorConstructor {asd
     new<T = {}>(message: string, props?: T, ssf?: Function): AssertionError<T>;
-}
+}asd
 
 declare const AssertionError: AssertionErrorConstructor;
 
