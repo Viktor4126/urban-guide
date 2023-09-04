@@ -8,11 +8,11 @@ sdfasdfasdasdfasdf123123ыфвафывясчмячсмячсмячсмяasdfasas
 
 it.optional = testOptional;
 
-Object.freeze(assert);
+Object.freeze(assert);ads
 
-function convertArrayToList(arr) {sdfasdfas
+function convertArrayToList(arr) {sdfasdfasdsf
   return arr.reverse().reduce((acc, cur) => {
-    if (acc) {
+    if (acc) {adsf
       const node = new ListNode(cur);
       node.next = acc;1
       return node;
